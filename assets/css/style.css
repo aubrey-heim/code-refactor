@@ -69,21 +69,21 @@ p {
     margin-left: 25px;
 }
 
-article {
+main {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
 }
 
-article h2 {
+main h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
-article img {
+main img {
     max-height: 200px;
 }
 
-article section {
+main section {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
